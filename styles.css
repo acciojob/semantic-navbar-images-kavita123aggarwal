@@ -1,2 +1,20 @@
+nav a{
+    width:120px;
+    display:block;
+    text-decoration:none;
+    text-align:center;
+    background:#594848;
+    font-size:17px;
+    color:white;
+    padding:20px 10px;
+    font-family:Arial;
+}
+ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+li{
+    float:left;
+}
 
-/* Your CSS Code here. */
